@@ -15,6 +15,7 @@ You also need to have the Android and iOS SDKs installed.
 You can then open the project in Android Studio and run the app on an Android emulator or device. 
 To run the app on iOS, you need to open the project in Xcode and run the app on an iOS simulator or device.
 #### Screenshots
-![Android](screenshots/android.png)
-![iOS](screenshots/ios.png)
 
+|                                     |                             |
+|-------------------------------------|-----------------------------|
+| ![Android](screenshots/android.png) | ![iOS](screenshots/ios.png) |
