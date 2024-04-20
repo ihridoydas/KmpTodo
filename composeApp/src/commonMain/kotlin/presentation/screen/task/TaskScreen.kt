@@ -1,4 +1,5 @@
 package presentation.screen.task
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -45,6 +46,7 @@ data class TaskScreen(val task: ToDoTask? = null) : Screen {
         }
 
         Scaffold(
+            modifier = Modifier.background(MaterialTheme.colorScheme.background),
             topBar = {
                 TopAppBar(
                     title = {
