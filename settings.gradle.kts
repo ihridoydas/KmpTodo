@@ -1,4 +1,4 @@
-rootProject.name = "kmpTodo"
+rootProject.name = "KmpTodo"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
